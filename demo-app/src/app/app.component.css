@@ -1,0 +1,21 @@
+* {
+    font-family:sans serif;
+}
+h2 {
+    font-size:9pt;
+}
+
+table {
+    width:100%;
+    border:1px solid grey;
+    border-spacing: 1px;
+}
+
+th {
+    font-weight: bold;
+    background-color: #aaa;
+}
+
+td {
+    background-color:#ddd;
+}
